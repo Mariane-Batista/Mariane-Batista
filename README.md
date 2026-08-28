@@ -1,4 +1,5 @@
-👋Olá, eu sou  Mariane!
+ 👋Olá, eu sou  Mariane!
+
 🎓Estudante de Desenvolvimento de Sistemas
 💻Focada em Python
 🚀Preparando-se para o mercado de tecnologia
