@@ -1,9 +1,10 @@
- 👋Olá, eu sou  Mariane!
+# 👋Olá, eu sou a Mariane!
 
-🎓Estudante de Desenvolvimento de Sistemas
-💻Focada em Python
-🚀Preparando-se para o mercado de tecnologia
-📫Contato: alvesbatista.mariane@yahoo.com.br
+- 🎓Estudante de Desenvolvimento de Sistemas
+- 💻Focada em Python
+- 🚀Preparando-se para o mercado de tecnologia
+- 📫Contato: alvesbatista.mariane@yahoo.com.br
+  
 
 
 <!--
